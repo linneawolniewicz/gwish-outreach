@@ -12,4 +12,4 @@ To use the lunar workshop, go to the Lunar branch and launch the binder link in 
 
 This is because of conflicting dependencies for each workshop environment.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/linneawolniewicz/gwish-outreach/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/linneawolniewicz/gwish-outreach/exoplanet?urlpath=%2Fdoc%2Ftree%2Fexoplanet_workshop.ipynb)
