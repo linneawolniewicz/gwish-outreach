@@ -55,7 +55,7 @@ def plot_area_craters(min_diameter, area_number, area_path, colormap, area_crate
     if not area_craters.empty:
         area_crater_counts = CraterDatabase(area_craters, units="km")
         area_crater_counts.add_annuli(0, 1, 'crater')
-        ax = area_crater_counts.plot(ax=ax, lw=0.75, alpha=1, color='tab:red')
+        ax = area_crater_counts.plot(ax=ax, lw=0.75, alpha=1, color='white')
 
     # Plot the image of the area
     im = plt.imread(area_path)
